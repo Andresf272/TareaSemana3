@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application Task week 3</string>
+    <string name="titulo_app">My project with conditions</string>
+    <string name="texto">Here is our text</string>
+
+
+</resources>

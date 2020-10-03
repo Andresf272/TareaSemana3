@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meine Bewerbungsaufgabe Woche 3</string>
+    <string name="titulo_app">Mein Projekt mit Bedingungen</string>
+    <string name="texto">Hier ist unser Text</string>
+
+
+</resources>

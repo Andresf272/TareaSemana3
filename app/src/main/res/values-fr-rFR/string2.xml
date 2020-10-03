@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ma tâche dapplication semaine 3</string>
+    <string name="titulo_app">Mon projet avec conditions</string>
+    <string name="texto">Voici notre texte</string>
+
+</resources>

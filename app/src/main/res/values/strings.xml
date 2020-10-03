@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">My Aplicacion Tarea semana 3</string>
+    <string name="titulo_app">Hola</string>
+    <string name="texto">Aqui va nuestro texto</string>
+    <string name="TituloBasico">Bienvenidos</string>
+    <string name="Boton">Entrar</string>
+
+
+</resources>
